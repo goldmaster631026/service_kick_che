@@ -66,7 +66,7 @@ function App() {
 
       const params = {
         username: dateString,
-        avatar_url: flag,
+        avatar_url: "",
         embeds: [
           {
             color: 65280,
